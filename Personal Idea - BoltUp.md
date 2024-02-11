@@ -1,0 +1,1 @@
+A platform to help contractors with ideas for companies, pitch their ideas to those companies to lead/ develop a feature or product.

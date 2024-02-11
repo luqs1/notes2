@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "0882aebc82e7fe68",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bf04a4c8fc4fd6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "471f7ac2d382339d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Idea - BoltUp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75df0fc810c786c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f164b0baa1fc38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc4a7e2d1bfc28d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14031401054f5867",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "014b1fa9a49788e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b9fb68e7c7a2a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a17ad9b7b00a435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4ebd4ee2528946",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Idea - BoltUp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bf1a97ec42d460a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal Idea - BoltUp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69d3bdcf98685bac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "754a21b47247f5ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal Idea - BoltUp.md"
+              }
+            }
+          },
+          {
+            "id": "287f1b914f0447f1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "287f1b914f0447f1",
+  "lastOpenFiles": [
+    "Co-founder.md",
+    "Personal Idea - BoltUp.md",
+    "mentoring/Pasted image 20240106070855.png",
+    "mentoring/Multipliers Experiments Handout EQN-MU-EXH-002.pdf",
+    "mentoring/multipliers and diminishers.pdf",
+    "gravida",
+    "deepfable",
+    "mentoring/Junaid - 4.md",
+    "mentoring/Junaid - 3.md",
+    "mentoring",
+    "mentoring/Junaid - 2.md",
+    "mentoring/Junaid - 1.md",
+    "Multipliers Experiments Handout EQN-MU-EXH-002 1.pdf"
+  ]
+}
